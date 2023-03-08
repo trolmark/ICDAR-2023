@@ -9,12 +9,12 @@ The datasets cover the most common classes of seals:
 
 - Circle/Ellipse shapes: This type of seals are commonly existing in official seals, invoice seals, contract seals, and bank seals.
 
-<img src="./images/seal_type_2.png" width="400">
+<img src="./images/seal_type_2.png" width="450" height="150">
 
 - Rectangle shapes: This type of seals are commonly seen in driving licenses, corporate seals, and medical bills.
 - Triangle shapes: This type of seals are seen in bank receipts and financial occasions. This type is uncommon seal and has a small amount of data.
 
-<img src="./images/seal_type_1.png" width="400">
+<img src="./images/seal_type_1.png" width="450" height="150">
 
 
 
@@ -23,7 +23,7 @@ The datasets cover the most common classes of seals:
 This method formulates the text detection task as one of identifying particular keypoints which are subsequently utilized to delineate the boundaries of curved text regions. 
 A bottom-up approach is employed in this technique, similar to that commonly used for pose-estimation tasks, where all keypoint locations in the image are determined and subsequently grouped together according to geometric rules to form a polygon which defines the curved text area.
 
-<img src="./images/task_1.png" width="200">
+<img src="./images/task_1.png" width="350" height="150">
 
 ## End-to-end seal title recognition solution
 
